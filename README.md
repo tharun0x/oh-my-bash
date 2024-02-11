@@ -8,7 +8,7 @@ Oh My Bash is an open source, community-driven framework for managing your [bash
 ┌🔺 User ⋈ Desktop in ~
 └❯
 ```
-### see image.png for actual theme look (with colours).
+### see `image.png` for actual theme look (with colours).
 
 ## Getting Started
 
