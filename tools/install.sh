@@ -265,7 +265,7 @@ function _omb_install_main {
       install_prefix=$PWD/$install_prefix
     local OSH=$install_prefix/share/oh-my-bash
   elif [[ ! $OSH ]]; then
-    OSH=~/.oh-my-bash
+    OSH=~/oh-my-bash
   fi
 
   if [[ ! $OSH_REPOSITORY ]]; then
