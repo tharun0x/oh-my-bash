@@ -34,9 +34,9 @@ git clone https://git.selfmade.ninja/tharunmurphy/oh-my-bash.git
 cp ~/.bashrc ~/.bashrc.orig
 ```
 
-##### 3. Create a new sh configuration file
+##### 3. Create a new bashrc configuration file
 
-You can create a new sh config file by copying the template that we have included for you.
+You can create a new sh config file by copying the template that I have included for you.
 
 ```shell
 cp ~/oh-my-bash/.bashrc ~/.bashrc
@@ -50,6 +50,6 @@ source ~/.bashrc
 
 ##### 5. Initialize your new bash configuration
 
-Once you open up a new terminal window, it should load sh with Oh My Bash's configuration.
+Once you open up a new terminal window, it should load the shell with the new configuration.
 
 ## Always Backup your original files and directories before making any changes.
