@@ -25,7 +25,7 @@ __Disclaimer:__ _Oh My Bash works best on macOS and Linux._
 ##### 1. Clone the repository:
 
 ```shell
-git clone https://git.selfmade.ninja/tharunmurphy/oh-my-bash.git
+git clone https://github.com/tharun0x/oh-my-bash.git
 ```
 
 ##### 2. *Optionally*, backup your existing `~/.bashrc` file:
